@@ -9,3 +9,8 @@ Enable production mode in Heroku
 ```
 heroku config:set APP_ENV=prod
 ```
+
+```
+heroku buildpacks:add heroku/php
+heroku buildpacks:add heroku/nodejs
+```
