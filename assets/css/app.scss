@@ -1,0 +1,9 @@
+// assets/css/global.scss
+
+// customize some Bootstrap variables
+$brand-primary: darken(#428bca, 20%);
+//font-family: 'Quicksand', sans-serif;
+$font-family-sans-serif: 'Quicksand', sans-serif;
+// the ~ allows you to reference things in node_modules
+@import '~bootstrap/scss/bootstrap';
+
