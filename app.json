@@ -1,0 +1,8 @@
+{
+  "name": "JobTime",
+  "description": "Job Exchange powered by Symfony 4. And deployable (Heroku)",
+  "repository": "https://github.com/tineo/jobtime",
+  "logo": "https://78.media.tumblr.com/4e841fa63e616055c84ca9fe84315a83/tumblr_oyrcfbJBCa1ve5yu7o7_400.png",
+  "keywords": ["symony", "heroku", "php", "mysql", "apache", "apache2", "symfony4"],
+  "addons": ["cleardb:ignite","newrelic:wayne","sendgrid:starter"]
+}

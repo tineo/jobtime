@@ -15,7 +15,7 @@ use Symfony\Component\Routing\Annotation\Route;
 class SearchController extends Controller
 {
     /**
-     * @Route("/", name="searh_page")
+     * @Route("/", name="search_page")
      */
     public function index()
     {

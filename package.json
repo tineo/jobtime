@@ -12,6 +12,7 @@
   },
   "dependencies": {
     "bootstrap": "^4.0.0",
+    "font-awesome": "^4.7.0",
     "node-sass": "^4.7.2",
     "node-sass-watcher": "^0.5.1",
     "popper.js": "^1.12.9"
